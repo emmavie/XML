@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Inventory>
+    <Car>
+        <Year>2013</Year>
+        <Company>ford</Company>
+        <Style>rvr</Style>
+        <Color>blue</Color>
+        <Mileage>20,000</Mileage>
+    </Car>
+</Inventory>
